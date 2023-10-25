@@ -1,1 +1,1 @@
-# yale_admit
+# Yale Admit Group Project
